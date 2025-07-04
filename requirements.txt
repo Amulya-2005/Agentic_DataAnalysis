@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+langchain
+langchain-core
+langchain-openai
+langgraph
+langchain-experimental
